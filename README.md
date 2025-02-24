@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on edge computing and federated learning.<br>👯 I’m looking to collaborate on any real-time projects<br>🌱 I’m currently learning distributed systems and  Deep Learning.<br>
+🔭 I’m currently working on edge computing and federated learning.<br>👯 I’m looking to collaborate on any real-time projects<br>🌱 I’m currently learning distributed systems and  CUDA programming.<br>
 
 
 # 💻 Tech Stack:
